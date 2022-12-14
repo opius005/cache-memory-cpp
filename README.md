@@ -8,6 +8,3 @@
 * Run Cache.cpp file.
 * Output will be displayed in the terminal.
 
-### Bar Chart ###
-![Bar Chart](https://iili.io/yvvc2n.png)
-![Table](https://iili.io/yv8T8u.png)
